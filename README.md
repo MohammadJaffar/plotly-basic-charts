@@ -38,4 +38,4 @@ Note: The data used in this tutorial is synthetic and not real.
 ## Contact
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/notifications/?filter=all](https://www.linkedin.com/in/mohammad-alkhatim-9b1770266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-alkhatim-9b1770266/)

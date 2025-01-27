@@ -39,7 +39,7 @@ pip install pandas plotly
 ## Dataset
 The dataset used in this tutorial is the Space Missions Dataset.
 
-[Dataset]([https://www.kaggle.com/datasets/sameerk2004/space-missions-dataset])
+[Dataset](https://www.kaggle.com/datasets/sameerk2004/space-missions-dataset)
 
 Note: The data used in this tutorial is synthetic and not real.
 

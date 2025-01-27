@@ -14,14 +14,6 @@ This tutorial explores:
 - **Interactive visualizations**: Fully interactive charts that bring data to life.
 - **Reusable examples**: Code snippets and methods applicable to a wide range of datasets.
 
-## Why Plotly Express?
-Plotly Express is:
-
-- Simple and easy to use.
-- Ideal for quick and easy creation of standard charts.
-- Great for exploratory data analysis (EDA) to get a quick overview of the data.
-- Minimalistic, requiring less code to create visualizations.
-- Best suited for straightforward visualizations without custom or complex requirements.
 
 ## Getting Started
 
